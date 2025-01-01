@@ -1,6 +1,2 @@
-FAST your opponents!!1!
-overhaul of speedkart
-Version 10
-
-By piber20 and Mr Noobler.
-Full credits can be viewed ingame with the /fkCredits command.
+FASTKarts updated for Blockland Rebuilt.
+By Piber and Mr Noobler. Rebuilt by Piber.
