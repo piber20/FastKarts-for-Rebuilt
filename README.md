@@ -1,13 +1,9 @@
-# GameMode_FASTKarts
-This is a GameMode Add-On for the indie game Blockland.
+# FastKarts for Rebuilt
 
-Blockland is an online multiplayer game where you build things with bricks.
-It's like playing with legos on the internet.
-More info: http://blockland.us/
+This project is a sort of addendum made almost 8 years after the last update of the Blockland gamemode FASTKarts to fix a few things and to make it work better with Blockland Rebuilt and to reignite a sort of nostalgic feeling for the original developer.
 
-The FASTKarts gamemode is more than just your standard everyday speedkart edit, much more than just adding a /boombox command was done here. Many features have been ported from DeathMatch gamemode to this, and this took lots of effort to get working nicely by all parties involved.
-
-Many of the gamemode's features can be controlled with preferences that can be changed ingame through server commands or a preferences editing mod, like Return to Blockland or Support_Preferences. Get started by typing /help ingame.
+Blockland Rebuilt is a revival and archival of Blockland, a version forked from the source with lots of fixes and updates and marries the maps of v20 with the shaders of v21.
+https://b4v21.block.land/?a=viewRebuilt
 
 # File structure
 ./core/
@@ -21,13 +17,13 @@ Many of the gamemode's features can be controlled with preferences that can be c
 - This directory contains integrated add-on files which have been modified for use within this gamemode.
 
 ./server.cs
-- This file is required for the gamemode to run, and the gamemode itself is listed in the gamemode.txt which executes this file as a result.
+- This is the first file that is executed when the gamemode starts.
 
 # Contributing
-The gamemode is at a "completed" state, but you can still help by fixing bugs or adding some quality-of-life features. Feel free to create pull requests and we'll take a look at it!
+Feel free to report issues or submit pull requests.
 
 # License
-This gamemode is published under GNU General Public License 3.0.
+This gamemode was published under GNU General Public License 3.0.
 
 In short:
 
@@ -38,16 +34,6 @@ In short:
 - We are not responsible for anything once you make those changes.
 
 # Links
-Blockland Forums Topic: https://forum.blockland.us/index.php?topic=305706.0
+Piber's Blockland archive: https://piber.me/downloads/mods/archive/piber20com/blockland/
 
-NexusMods Page: http://www.nexusmods.com/blockland/mods/46
-
-Blockland Glass Page: https://blocklandglass.com/addons/addon.php?id=496
-
-Stable Download: http://piber20.com/d/bl/GameMode_FASTKarts.zip
-
-Tracks: http://piber20.com/d/bl/fk/
-
-Tracks Repository: https://github.com/piber20/BL-FK-Tracks
-
-Discord: https://discord.gg/Xhu2ktM
+Piber's Discord: https://discord.gg/xTb54ySuZc
